@@ -1,9 +1,9 @@
 # “Bridging The Gap: De Tradicional à Tech-Driven”
 
-![](../../actions/workflows/0-start-workshop.yaml/badge.svg)
-![](../../actions/workflows/1-create-ruleset.yaml/badge.svg)
-![](../../actions/workflows/2-open-pr.yaml/badge.svg)
-![](../../actions/workflows/3-merge-pr.yaml/badge.svg)
+![](https://github.com/thalisonjc/workshop-bridging-the-gap/actions/workflows/0-start-workshop.yaml/badge.svg)
+![](https://github.com/thalisonjc/workshop-bridging-the-gap/actions/workflows/1-create-ruleset.yaml/badge.svg)
+![](https://github.com/thalisonjc/workshop-bridging-the-gap/actions/workflows/2-open-pr.yaml/badge.svg)
+![](https://github.com/thalisonjc/workshop-bridging-the-gap/actions/workflows/3-merge-pr.yaml/badge.svg)
 
 > Este repositório serve como guia para adoção de práticas GitHub em organizações de maior porte.  
 > Aqui abordamos: criação de organização, configurações essenciais, padronização de ambientes, GitHub Actions e muito mais.
@@ -29,8 +29,8 @@ Este repositório contém:
 
 1. Clique com o botão direito em **Copy Workshop** e abra o link em uma nova aba.
 
-   <a id="copy-workshop" href="https://github.com/new?template_owner=lufomatics&template_name=workshop-bridging-the-gap&owner=%40me&name=workshop-bridging-the-gap&description=Workshop:+Bridging+The+Gap&visibility=public">
-      <img src="https://img.shields.io/badge/📠_Copy_Workshop-008000" height="25pt"/>
+   <a id="copy-workshop">
+      <img src="https://img.shields.io/badge/📠_Copy_Workshop-AAA" height="25pt"/>
    </a>
 
 2. Na nova aba, a maior parte dos campos será preenchida automaticamente:
@@ -44,8 +44,8 @@ Este repositório contém:
 
 4. Clique em **Start Workshop** e siga as instruções. Ao final do fluxo (merge do Pull Request), você terá um repositório completamente funcional em uma nova organização.
 
-   <a id="start-workshop">
-      <img src="https://img.shields.io/badge/🚀_Start_Workshop-AAA" height="25pt"/>
+   <a id="start-workshop" href="https://github.com/thalisonjc/workshop-bridging-the-gap/issues/1">
+      <img src="https://img.shields.io/badge/🚀_Start_Workshop-008000" height="25pt"/>
    </a>
 
 > [!IMPORTANT]  
